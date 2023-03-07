@@ -1,0 +1,34 @@
+
+.title{ 
+    text-align:center;
+  color:#b2d3c2;
+}
+html{
+  background-color: #402f1d;
+}
+.city skyline covered by smog{
+  display: flex;
+  justify-content: right;
+  width: 10px;
+  height: 10px;
+}
+div {
+    color:#b2d3c2;
+    text-align: right;
+    background-color: #402f1d;
+}
+.cowboybebop{
+  width: 700px;
+  height: 280px;
+  text-align: left;
+}
+h1{
+  text-align: left;
+  color:#b2d3c2;
+}
+h2{
+  color:#b2d3c2;
+   width: 700px;
+  height: 280px;
+  text-align: left;
+}
